@@ -2,7 +2,7 @@ Udacity project - Starbucks Capstone project
 
 Analysis on Starbucks mobile app data.
 
-#### Datasets:
+##### Datasets:
 
 Data comes from the Starbucks' mobile app.
 
